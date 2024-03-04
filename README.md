@@ -62,7 +62,7 @@ These features were implemented to ensure that the dashboard meets the functiona
   project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
   What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
 
-  # Answer
+  # Answers
   Writing maintainable, readable, and adaptable code is a key aspect of software development, particularly in projects that require scalability and longevity. In the CRUD Python module 
   from Project One, this approach allowed for a clear and efficient way to manage database operations, which was instrumental when integrating the dashboard widgets in Project Two.
 
